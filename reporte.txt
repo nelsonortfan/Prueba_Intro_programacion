@@ -1,1 +1,3 @@
 ejemplo de reporte
+
+2x3 = 6
